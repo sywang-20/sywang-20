@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - I'm Sunyu Wang, a PhD student at HKU.
 - I'm interested in spatial optimization.
-- How to reach me: sywang410@163.com.
+- How to reach me: sywang410@163.com, sywang410@gmail.com.
